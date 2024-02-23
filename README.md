@@ -31,8 +31,16 @@ NumPy
 Matplotlib
 Seaborn
 
-### Contributors 💻
-Your Name: Sakshi Yadav
+### Technologies Used 💻
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Matplotlib
+Seaborn
 
-### Acknowledgments
+### Contributor 👥
+Sakshi Yadav
+
+### Acknowledgments 🙏
 Special thanks to ***'Innomatics Research Labs'*** for providing the dataset and collaborating on this project.
